@@ -1,6 +1,13 @@
 # colab-yolov5訓練
 [yolo下載與安裝環境](##首先下載yolov5檔案)
 
+[建立數據集](##建立數據集)
+
+[產生訓練需要的資源](##產生訓練需要的資源)
+
+[建立colab Terminal](##建立colab_Terminal)
+
+[訓練與測試](##訓練與測試)
 ## yolo下載與安裝環境
 下載檔案到google drive(推薦)或是指令git clone直接下載，但重新啟動要再下一次指令。
 ```
@@ -18,7 +25,7 @@ $ pip install -r requirements.txt
    - 由於pascalVOC_to_voc.py會將pose加入名稱內如果不希望加入可以使用上方檔案voc_to_voc
 ## 產生訓練需要的資源
    - 詳細步驟---->[YOLOV5训练自己的数据集（踩坑经验之谈）](https://blog.csdn.net/a_cheng_/article/details/111401500)
-## 建立colab Terminal
+## 建立colab_Terminal
 程式來源---->[How can I run shell (terminal) in Google Colab?](https://stackoverflow.com/questions/59318692/how-can-i-run-shell-terminal-in-google-colab)
 ### 1. 啟動shell
 ```python
