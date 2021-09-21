@@ -16,3 +16,5 @@ $ pip install -r requirements.txt
    - 下載已標籤的開放數據集
    - 透過pascalVOC_to_voc.py挑取所需的類別(詳細步驟---->[來源](https://makerpro.cc/2020/01/get-specific-objects-from-voc-dataset/))
    - 由於pascalVOC_to_voc.py會將pose加入名稱內如果不希望加入可以使用上方檔案voc_to_voc
+## 產生訓練需要的資源
+   - 詳細步驟---->[YOLOV5训练自己的数据集（踩坑经验之谈）](https://blog.csdn.net/a_cheng_/article/details/111401500)
