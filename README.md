@@ -26,7 +26,7 @@ $ pip install -r requirements.txt
 ## 產生訓練需要的資源
    - 詳細步驟---->[YOLOV5训练自己的数据集（踩坑经验之谈）](https://blog.csdn.net/a_cheng_/article/details/111401500)
 ## 建立colab_Terminal
-程式來源---->[How can I run shell (terminal) in Google Colab?](https://stackoverflow.com/questions/59318692/how-can-i-run-shell-terminal-in-google-colab)
+   - 程式來源---->[How can I run shell (terminal) in Google Colab?](https://stackoverflow.com/questions/59318692/how-can-i-run-shell-terminal-in-google-colab)
 ### 1. 啟動shell
 ```python
 from IPython.display import JSON
