@@ -15,7 +15,7 @@ $ git clone https://github.com/ultralytics/yolov5
 $ cd yolov5
 $ pip install -r requirements.txt
 ```
-## 建立數據集
+## 建立自己所需數據集
 ### 1. 方案1
    - [labelImg](https://tzutalin.github.io/labelImg/)
    - 在目錄yolov5/data底下建立Annotations與JPEGImages資料夾，分別存放.xml標註檔與圖片
